@@ -1,8 +1,6 @@
 # BrainGate Computer Innovation For Paralysis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Development](https://img.shields.io/badge/Status-In%20Development-orange.svg)](#)
-[![Technology: BCI](https://img.shields.io/badge/Technology-Brain%20Computer%20Interface-blue.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: Development](https://img.shields.io/badge/Status-In%20Development-orange.svg)](#) [![Technology: BCI](https://img.shields.io/badge/Technology-Brain%20Computer%20Interface-blue.svg)](#)
 
 ## 🧠 Project Overview
 
@@ -39,22 +37,22 @@ This repository documents a cutting-edge research initiative focused on developi
 ## 🛠️ Technologies & Tools
 
 **Programming Languages:**
-- Python (NumPy, SciPy, TensorFlow)
-- C++ (Real-time processing)
-- MATLAB (Signal analysis)
-- JavaScript (Web interfaces)
+- • Python (NumPy, SciPy, TensorFlow)
+- • C++ (Real-time processing)
+- • MATLAB (Signal analysis)
+- • JavaScript (Web interfaces)
 
 **Hardware Platforms:**
-- NVIDIA Jetson (Edge computing)
-- Arduino/Raspberry Pi (Prototyping)
-- Custom PCB designs
-- Medical-grade sensors
+- • NVIDIA Jetson (Edge computing)
+- • Arduino/Raspberry Pi (Prototyping)
+- • Custom PCB designs
+- • Medical-grade sensors
 
 **Development Tools:**
-- Git version control
-- Docker containerization
-- CI/CD pipelines
-- Unit testing frameworks
+- • Git version control
+- • Docker containerization
+- • CI/CD pipelines
+- • Unit testing frameworks
 
 ## 📊 Research Outcomes
 
@@ -65,10 +63,10 @@ This repository documents a cutting-edge research initiative focused on developi
 - **User Satisfaction**: High usability scores from participants
 
 ### Publications & Presentations
-- Peer-reviewed journal articles (in preparation)
-- Conference presentations at IEEE EMBC, SfN
-- Patent applications for novel algorithms
-- Collaboration with leading research institutions
+- • Peer-reviewed journal articles (in preparation)
+- • Conference presentations at IEEE EMBC, SfN
+- • Patent applications for novel algorithms
+- • Collaboration with leading research institutions
 
 ## 🔒 Ethics & Compliance
 
@@ -140,3 +138,7 @@ This project serves as a comprehensive case study in:
 **Note**: This repository serves as a portfolio showcase of research capabilities and technical expertise in biomedical engineering, machine learning, and clinical research. The project demonstrates proficiency in cutting-edge technologies and commitment to solving real-world healthcare challenges.
 
 *For detailed technical specifications, research data, and collaboration inquiries, please contact the project team directly.*
+
+## Reference
+
+- Braingate: A Computer Innovation for Patients with Paralysis, IJERT, 2023. [Read the full paper](https://www.ijert.org/research/braingate-a-computer-innovation-for-patients-with-paralysis-IJERTCONV11IS08020.pdf)
